@@ -1,5 +1,4 @@
-# RISHABH Lowanshi
-Data Analysis Portfolio
+# Portfolio
 
 # [Poject 1: Covid Analysis: Project Overview](https://github.com/rishabh685/covid-analysis-M-)
 - Extracted data from different sources
