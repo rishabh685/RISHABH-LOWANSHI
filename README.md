@@ -6,7 +6,7 @@
 - Analysed data for diffrenet variables
 - Vizualized data in the form of graphs and charts by the use of matplotlib library
 - For the easy understanding to people from non-technical background
-  [](/IMAGES/Screenshot%20(52).png)
+  [](https://github.com/rishabh685/RISHABH-LOWANSHI/blob/main/IMAGES/Screenshot%20(52).png)
 
 
 # [Project 2: Stock Market Analysis: Project Overview](https://github.com/rishabh685/stock-market-analysis)
