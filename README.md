@@ -6,7 +6,7 @@
 - Analysed data for diffrenet variables
 - Vizualized data in the form of graphs and charts by the use of matplotlib library
 - For the easy understanding to people from non-technical background
-  [](https://github.com/rishabh685/RISHABH-LOWANSHI/blob/main/IMAGES/Screenshot%20(52).png)
+ ![](https://github.com/rishabh685/RISHABH-LOWANSHI/blob/main/IMAGES/Screenshot%20(52).png)
 
 
 # [Project 2: Stock Market Analysis: Project Overview](https://github.com/rishabh685/stock-market-analysis)
@@ -14,6 +14,7 @@
 - Cleansed the data and change there data type according to condition
 - Plotted different graphs for closeing and opening price of stocks
 - Analysed how company is performing in last decade  
+![](https://github.com/rishabh685/RISHABH-LOWANSHI/blob/main/IMAGES/Screenshot%20(55).png)
 
 
 # [Project 3: India census data: Project Overview](https://github.com/rishabh685/india-census-analysis)
@@ -21,3 +22,6 @@
 - Cleansed and manipulated data for further use
 - Grouped data in different categories according to states
 - Visualize data for easy understanding 
+
+
+![](https://github.com/rishabh685/RISHABH-LOWANSHI/blob/main/IMAGES/Screenshot%20(56).png)
