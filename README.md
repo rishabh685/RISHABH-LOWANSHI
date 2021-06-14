@@ -14,7 +14,7 @@
 - Cleansed the data and change there data type according to condition
 - Plotted different graphs for closeing and opening price of stocks
 - Analysed how company is performing in last decade  
-![](/IMAGES/Screenshot%20(55).png)
+![](https://github.com/rishabh685/RISHABH-LOWANSHI/blob/main/IMAGES/Screenshot%20(55).png)
 
 
 # [Project 3: India census data: Project Overview](https://github.com/rishabh685/india-census-analysis)
